@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><md:EntityDescriptor xmlns:md="urn:oasis:names:tc:SAML:2.0:metadata" entityID="https://pure.udem.edu.mx/"><md:SPSSODescriptor AuthnRequestsSigned="true" WantAssertionsSigned="true" protocolSupportEnumeration="urn:oasis:names:tc:SAML:2.0:protocol"><md:KeyDescriptor use="signing"><ds:KeyInfo xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:X509Data><ds:X509Certificate>MIID7zCCAtegAwIBAgIUbxlEuWAQ8t4LB5IqT0xk+rvDEkwwDQYJKoZIhvcNAQELBQAwgYYxCzAJ
+BgNVBAYTAk1YMQ4wDAYDVQQIDAVNWE1UWTESMBAGA1UEBwwJTU9OVEVSUkVZMQ0wCwYDVQQKDARV
+REVNMQ0wCwYDVQQLDARVREVNMQ0wCwYDVQQDDARVREVNMSYwJAYJKoZIhvcNAQkBFhdELkJFUk1V
+REVaQEVMU0VWVUVSLkNPTTAeFw0yNDA3MjIxNjUxMjRaFw0yNjA3MTIxNjUxMjRaMIGGMQswCQYD
+VQQGEwJNWDEOMAwGA1UECAwFTVhNVFkxEjAQBgNVBAcMCU1PTlRFUlJFWTENMAsGA1UECgwEVURF
+TTENMAsGA1UECwwEVURFTTENMAsGA1UEAwwEVURFTTEmMCQGCSqGSIb3DQEJARYXRC5CRVJNVURF
+WkBFTFNFVlVFUi5DT00wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDMuJr8a0HVukR2
+Oj64sGKDmDWquLKDZ+jq94ftWOxoms4ysbE6QmEz2bYy4dio/6KuHIwOlcrW5g3+Pkr2sv85Ufwq
+xV6DvbmIqALnHBb+kY+ScDJ9vpXLsbKV6b2d3GVr/cXkvDiww8W81NBVlxF2MTrtnG2kyVFSwGhj
+trThRZVrXJUpmA1hIgyJ23zg7PxCxmop3dL/82mjuiuFtVX/EhOSuXMgkjSizxx9u2BhtPdskxOP
+DZDW8kbC6zK5wTGxzAEox1RudxhXjcc2S3sP+rP9EuSWJGxb37WPO6xmL181bWUxfVhfQSH/arE/
++B1vKxvZvpBqBVrm5xi3qwmvAgMBAAGjUzBRMB0GA1UdDgQWBBT0LvIrz9yUcuZ6vCwJuVTg47/J
+tDAfBgNVHSMEGDAWgBT0LvIrz9yUcuZ6vCwJuVTg47/JtDAPBgNVHRMBAf8EBTADAQH/MA0GCSqG
+SIb3DQEBCwUAA4IBAQB8yglpMdLpL9i7V+IjTNjpi5fdchso9wQr3alhihyle22nXEo446kVUViO
+5b/1pDVrcU9JeBZTfeAGNGEHbmxLKIUf7PYE21ZpLiiLRt48a0n048V9BZ8HByZjf21CPRumYxgF
+/knnd5vZ5B+ZQBa4Vq9ZSSsE7jSmknE27MA0JDAU8dtzX/jhQKK/XHjAb+crNCCkz/T1jRRk2I9S
+mCbKdL+sWt4fEM+HM1PBGMas6iVPygal8pN84Px54RqaQEJmD9vKyEvena7vDJDMDWhrp1RRLsaY
+ZUdCZeSYK6i23LP0IAXJsOsMoqKgMu95jb/EVMfLGIUzS6EZRA94rrCm</ds:X509Certificate></ds:X509Data></ds:KeyInfo></md:KeyDescriptor><md:KeyDescriptor use="encryption"><ds:KeyInfo xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:X509Data><ds:X509Certificate>MIID7zCCAtegAwIBAgIUbxlEuWAQ8t4LB5IqT0xk+rvDEkwwDQYJKoZIhvcNAQELBQAwgYYxCzAJ
+BgNVBAYTAk1YMQ4wDAYDVQQIDAVNWE1UWTESMBAGA1UEBwwJTU9OVEVSUkVZMQ0wCwYDVQQKDARV
+REVNMQ0wCwYDVQQLDARVREVNMQ0wCwYDVQQDDARVREVNMSYwJAYJKoZIhvcNAQkBFhdELkJFUk1V
+REVaQEVMU0VWVUVSLkNPTTAeFw0yNDA3MjIxNjUxMjRaFw0yNjA3MTIxNjUxMjRaMIGGMQswCQYD
+VQQGEwJNWDEOMAwGA1UECAwFTVhNVFkxEjAQBgNVBAcMCU1PTlRFUlJFWTENMAsGA1UECgwEVURF
+TTENMAsGA1UECwwEVURFTTENMAsGA1UEAwwEVURFTTEmMCQGCSqGSIb3DQEJARYXRC5CRVJNVURF
+WkBFTFNFVlVFUi5DT00wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDMuJr8a0HVukR2
+Oj64sGKDmDWquLKDZ+jq94ftWOxoms4ysbE6QmEz2bYy4dio/6KuHIwOlcrW5g3+Pkr2sv85Ufwq
+xV6DvbmIqALnHBb+kY+ScDJ9vpXLsbKV6b2d3GVr/cXkvDiww8W81NBVlxF2MTrtnG2kyVFSwGhj
+trThRZVrXJUpmA1hIgyJ23zg7PxCxmop3dL/82mjuiuFtVX/EhOSuXMgkjSizxx9u2BhtPdskxOP
+DZDW8kbC6zK5wTGxzAEox1RudxhXjcc2S3sP+rP9EuSWJGxb37WPO6xmL181bWUxfVhfQSH/arE/
++B1vKxvZvpBqBVrm5xi3qwmvAgMBAAGjUzBRMB0GA1UdDgQWBBT0LvIrz9yUcuZ6vCwJuVTg47/J
+tDAfBgNVHSMEGDAWgBT0LvIrz9yUcuZ6vCwJuVTg47/JtDAPBgNVHRMBAf8EBTADAQH/MA0GCSqG
+SIb3DQEBCwUAA4IBAQB8yglpMdLpL9i7V+IjTNjpi5fdchso9wQr3alhihyle22nXEo446kVUViO
+5b/1pDVrcU9JeBZTfeAGNGEHbmxLKIUf7PYE21ZpLiiLRt48a0n048V9BZ8HByZjf21CPRumYxgF
+/knnd5vZ5B+ZQBa4Vq9ZSSsE7jSmknE27MA0JDAU8dtzX/jhQKK/XHjAb+crNCCkz/T1jRRk2I9S
+mCbKdL+sWt4fEM+HM1PBGMas6iVPygal8pN84Px54RqaQEJmD9vKyEvena7vDJDMDWhrp1RRLsaY
+ZUdCZeSYK6i23LP0IAXJsOsMoqKgMu95jb/EVMfLGIUzS6EZRA94rrCm</ds:X509Certificate></ds:X509Data></ds:KeyInfo></md:KeyDescriptor><md:SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://pure.udem.edu.mx/admin/saml/SingleLogout/alias/pure"/><md:SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect" Location="https://pure.udem.edu.mx/admin/saml/SingleLogout/alias/pure"/><md:SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:SOAP" Location="https://pure.udem.edu.mx/admin/saml/SingleLogout/alias/pure"/><md:NameIDFormat>urn:oasis:names:tc:SAML:1.1:nameid-format:emailAddress</md:NameIDFormat><md:NameIDFormat>urn:oasis:names:tc:SAML:2.0:nameid-format:transient</md:NameIDFormat><md:NameIDFormat>urn:oasis:names:tc:SAML:2.0:nameid-format:persistent</md:NameIDFormat><md:NameIDFormat>urn:oasis:names:tc:SAML:1.1:nameid-format:unspecified</md:NameIDFormat><md:NameIDFormat>urn:oasis:names:tc:SAML:1.1:nameid-format:X509SubjectName</md:NameIDFormat><md:AssertionConsumerService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Artifact" Location="https://pure.udem.edu.mx/admin/saml/SSO/alias/pure" index="0"/><md:AssertionConsumerService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://pure.udem.edu.mx/admin/saml/SSO/alias/pure" index="1" isDefault="true"/></md:SPSSODescriptor></md:EntityDescriptor>
